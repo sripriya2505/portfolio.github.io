@@ -19,7 +19,7 @@ body {
 
 /* Main Container */
 section {
-    background-color: white;
+    background-color: blue;
     padding: 2rem;
     width: 90%;
     max-width: 800px;
@@ -31,7 +31,7 @@ section {
 
 /* Header */
 header {
-    background-color: #4CAF50;
+    background-blue: #4CAF50;
     color: white;
     padding: 2rem;
     border-radius: 8px;
