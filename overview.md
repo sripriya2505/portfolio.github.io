@@ -1,3 +1,7 @@
+**COURSE OVERVIEW**
+
+
+
 Fundamentals of Algorithms and Problem Solving
 Space and Time Complexities: Study of how the resource usage of an algorithm grows as the input size increases. Common complexity classes include O(1), O(n), O(n^2), O(log n), etc.
 
