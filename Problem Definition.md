@@ -43,4 +43,4 @@ The Lodging System uses a simple greedy approach when booking rooms. It books th
 
 Quick Sorting :
 
-The Set data structure in C++ inherently maintains its elements in sorted order. When rooms are added or released in the Lodging System, they are automatically sorted by their room ID (the first element of t
+The Set data structure in C++ inherently maintains its elements in sorted order. When rooms are added or released in the Lodging System, they are automatically sorted by their room ID.
