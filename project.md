@@ -63,6 +63,8 @@ Space Complexity: The space complexity depends on the number of orders, inventor
 
 **LINK FOR CODE SNIPPET OF ROOM BOOKING :https://github.com/sripriya2505/portfolio.github.io/blob/1ab445688214a6e1372820937afd3893c7d71695/snippet.cpp**
 
+**LINK FOR THE COMPLETE CODE FOR RESTAURANT MANAGEMENT :
+
 
 # **Customer Queue Management:**
 The Customer Queue Management system ensures that customers are served in the order they arrive. It uses a queue data structure where customers are added to the queue as they arrive and removed in the same order (FIFO - First In, First Out) when they are served. This helps ensure a fair and efficient process for handling customers.
