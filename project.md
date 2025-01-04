@@ -63,7 +63,7 @@ Space Complexity: The space complexity depends on the number of orders, inventor
 
 **LINK FOR CODE SNIPPET OF ROOM BOOKING :https://github.com/sripriya2505/portfolio.github.io/blob/1ab445688214a6e1372820937afd3893c7d71695/snippet.cpp**
 
-**LINK FOR THE COMPLETE CODE FOR RESTAURANT MANAGEMENT :
+**LINK FOR THE COMPLETE CODE FOR RESTAURANT MANAGEMENT :https://github.com/sripriya2505/portfolio.github.io/blob/35ee9b012659a3680dd07869d58de75cd62c54c8/mergedcode.cpp
 
 
 # **Customer Queue Management:**
