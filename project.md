@@ -61,9 +61,13 @@ Time Complexity: Many operations (e.g., searching an item in a dictionary, updat
 Space Complexity: The space complexity depends on the number of orders, inventory items, and reservations stored in dictionaries and lists.
 
 
+**LINK FOR CODE SNIPPET OF ROOM BOOKING :**
 
 
+**Customer Queue Management:**
+The Customer Queue Management system ensures that customers are served in the order they arrive. It uses a queue data structure where customers are added to the queue as they arrive and removed in the same order (FIFO - First In, First Out) when they are served. This helps ensure a fair and efficient process for handling customers.
 
+The primary algorithm used here is the FIFO (First In, First Out) algorithm, which ensures that customers are served in the order they joined the queue. This approach is simple but effective, ensuring that no customer is skipped or kept waiting unnecessarily.
 
 
 
