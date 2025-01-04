@@ -21,7 +21,7 @@ Remove Room: When a room is successfully booked, it is removed from the set of a
 Error Handling: If the room isn't found (i.e., it’s already booked or doesn't exist), the system displays an error message.
 Why Use a Set:
 
-#  QUCIK Sorting:
+#  QUICK Sorting:
 
 The set ensures that rooms are always sorted by their room ID, which helps with efficient searching and management.
 Uniqueness: A set automatically eliminates any duplicate entries, ensuring that a room cannot be booked more than once unless explicitly removed.
